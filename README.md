@@ -8,4 +8,5 @@
   2)stacks
   3)queues
   4)linked list
-   
+  5)Trees
+  6)Graphs
